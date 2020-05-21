@@ -1,0 +1,42 @@
+$bp-largest: 90em;     // 1440px
+$bp-large: 75em;       // 1200px
+$bp-medium: 64em;      // 1024px
+$bp-small: 48em;       // 768px
+$bp-smaller: 40em;    // 640px
+$bp-smallest: 30em;    // 480px
+
+.latest_movies__heading{
+    margin-bottom: 3rem;
+    justify-self: baseline;
+    align-self: center;
+}
+
+.latest_movies__item{
+    display: flex;
+
+    &:not(:last-child){
+        margin-bottom: 1.4rem;
+    }
+
+    &-left{
+
+    }
+
+    &__img{
+        display: block;
+        max-height: 150px;
+
+        @media only screen and (max-width: $bp-medium){
+            max-height: 120px;
+        }
+    }
+
+
+    &-right{
+        display: flex;
+        flex-direction: column;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        justify-content: center;
+    }
+}
