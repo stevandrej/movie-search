@@ -1,9 +1,9 @@
 # movie-search
 Movie search app - made with ReactJS
 
-##Technologies
+## Technologies
 ---
--React
--Sass
--BEM methodology
--API form http://www.omdbapi.com/
+- React
+- Sass
+- BEM methodology
+- API form http://www.omdbapi.com/
