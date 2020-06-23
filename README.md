@@ -6,4 +6,4 @@ Movie search app - made with ReactJS
 - React
 - Sass
 - BEM methodology
-- API form http://www.omdbapi.com/
+- API from http://www.omdbapi.com/
