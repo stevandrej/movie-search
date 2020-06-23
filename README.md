@@ -5,6 +5,7 @@ Movie search app - made with ReactJS
 
 - React
 - Sass
+- CSS Flexbox
 - BEM methodology
 - API from http://www.omdbapi.com/
 
