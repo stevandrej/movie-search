@@ -7,3 +7,9 @@ Movie search app - made with ReactJS
 - Sass
 - BEM methodology
 - API from http://www.omdbapi.com/
+
+![alt text](https://github.com/stevandrej/movie-search/blob/master/img/preview-1.jpg "preview 1")
+
+---
+
+![alt text](https://github.com/stevandrej/movie-search/blob/master/img/preview-2.jpg "preview 2") 
