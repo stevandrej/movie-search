@@ -2,7 +2,7 @@
 Movie search app - made with ReactJS
 
 ## Technologies
----
+
 - React
 - Sass
 - BEM methodology
